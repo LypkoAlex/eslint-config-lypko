@@ -161,7 +161,7 @@ module.exports = {
         "eol-last": 2,
         "func-names": 1,
         "func-style": [2, "declaration"],
-        "indent": [2, 4, { "SwitchCase": 1 }],
+        "indent": [2, 2, { "SwitchCase": 1 }],
         "key-spacing": [2, {
             "singleLine": {
                 "beforeColon": false,
@@ -211,13 +211,8 @@ module.exports = {
         "no-return-await": 2,
         "prefer-promise-reject-errors": ["error", {"allowEmptyReject": true}],
         "no-compare-neg-zero": 2,
-        "no-buffer-constructor": 2,
         "array-bracket-newline": 0,
-        "switch-colon-spacing": 2,
-        "for-direction": 2,
-        "semi-style": [2, "last"],
         "array-element-newline": 0,
-        "getter-return": 2,
     },
 
      "globals":{
