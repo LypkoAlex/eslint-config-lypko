@@ -162,7 +162,6 @@ module.exports = {
         "func-names": 1,
         "func-style": [2, "declaration"],
         "indent": [2, 4, { "SwitchCase": 1 }],
-        "jsx-quotes": [2, "prefer-single"],
         "key-spacing": [2, {
             "singleLine": {
                 "beforeColon": false,
