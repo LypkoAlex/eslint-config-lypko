@@ -124,9 +124,6 @@ module.exports = {
         "prefer-spread": 2,
         "prefer-template": 2,
 
-        // Strict Mode
-        "strict": [2, "never"],
-
         // Variables
         "no-catch-shadow": 2,
         "no-delete-var": 2,
