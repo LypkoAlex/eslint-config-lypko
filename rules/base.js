@@ -52,7 +52,6 @@ module.exports = {
         "no-ex-assign": 2,
         "no-extra-boolean-cast": 0,
         "no-extra-parens": [2, "functions"],
-        "no-extra-semi": 2,
         "no-func-assign": 2,
         "no-inner-declarations": 2,
         "no-invalid-regexp": 2,
