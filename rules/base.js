@@ -191,7 +191,7 @@ module.exports = {
         "padded-blocks": [2, "never"],
         "quotes": [1, "single", "avoid-escape"],
         "semi-spacing": [2, { "before": false, "after": true }],
-        "semi": [2, "always"],
+        "semi": ["error", "always"],
         "semi-style": [2, "last"],
         "no-extra-semi": 2,
         "keyword-spacing": 2,
