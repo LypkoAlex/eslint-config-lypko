@@ -158,7 +158,7 @@ module.exports = {
         "func-names": 1,
         "func-style": [2, "declaration"],
         "indent": [2, 2, { "SwitchCase": 1 }],
-        "key-spacing": [2, {
+        "key-spacing": [4, {
             "singleLine": {
                 "beforeColon": false,
                 "afterColon": true
