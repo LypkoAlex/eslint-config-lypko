@@ -193,6 +193,7 @@ module.exports = {
         "semi-spacing": [2, { "before": false, "after": true }],
         "semi": [2, "always"],
         "semi-style": [2, "last"],
+        "no-extra-semi": 2
         "keyword-spacing": 2,
         "space-before-blocks": 2,
         "space-before-function-paren": [2, { "anonymous": "always", "named": "never" }],
